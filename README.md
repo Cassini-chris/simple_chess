@@ -3,7 +3,7 @@
 This is a basic chess engine implemented in Python using the `chess` library. It utilizes the minimax algorithm with alpha-beta pruning for move selection.
 
 ![Image of a chessboard](https://github.com/Cassini-chris/simple_chess/blob/main/simple_chess.png)
-<img src="[simple_chess/simple_chess.png](https://github.com/Cassini-chris/simple_chess/blob/main/simple_chess.png)" width="300"> 
+<img src="(https://github.com/Cassini-chris/simple_chess/blob/main/simple_chess.png)" width="300"> 
 
 
 ## Features
