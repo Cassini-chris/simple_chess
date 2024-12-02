@@ -1,4 +1,4 @@
-# Simple Chess Engine
+# Simple Chess = based on 
 
 This is a basic chess engine implemented in Python using the `chess` library. It utilizes the minimax algorithm with alpha-beta pruning for move selection.
 
