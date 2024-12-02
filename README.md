@@ -17,7 +17,8 @@ This is a basic chess engine implemented in Python using the `chess` library. It
 
 1. **Install the `chess` library:**
    ```bash
-   pip install chess
+   pip install python-chess
+
 
 ## How to Play
 The engine will print the board state.
